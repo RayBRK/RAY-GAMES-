@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"tormentor",
+			"face",
+			[
+				126,
+				113,
+				135
+			]
+		],
+		[
+			"neuroses",
+			"face",
+			[
+				146,
+				33,
+				0
+			]
+		],
+		[
+			"discharge",
+			"face",
+			[
+				126,
+				113,
+				93
+			]
+		],
+		[
+			"test",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "wall",
+	"weekCharacters": [
+		"",
+		"",
+		"bf"
+	],
+	"storyName": "Your New tormentor...",
+	"weekName": "week soul",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}
